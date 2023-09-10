@@ -92,11 +92,11 @@ body{
 }
 .Email{
     text-align: center;}
-#Email{
-    font-size: 1cm;
+.Email{
+    font-size: 1.5cm;
     color:#00ffad;
 }
-#Email p{
+.Email p{
     font-size: 0.2px;
     
 }
