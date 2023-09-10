@@ -1,0 +1,102 @@
+*{
+    margin: 0%;
+    padding: 0%;
+}
+body{
+    background-color:#1a1919;
+    color: whitesmoke;
+    font-size: 0.9cm;
+    margin: auto;
+}
+.Photo img{
+    border: 5px solid white;
+    height: 5cm;
+    width: 5cm;
+    border-radius: 10cm;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 2cm;
+}
+.Main{
+    text-align: center;
+    margin-top: 1cm;
+    font-size: 1.5cm;
+    font-family: 'Prompt', sans-serif;
+}
+.paragrapgh{
+    text-align: center;
+    margin-top: 1cm;
+    font-size: 0.6cm;
+    margin: auto;
+}
+#element{
+    color:#00ffad;
+}
+#Name{
+    color:#00ffad;
+}
+.Education{
+    text-align: center;
+}
+#Headline{
+    font-size: 1.5cm;
+    color:#00ffad;
+}
+#College{
+    text-align: center;
+    margin-top: 1cm;
+    font-size: 0.7cm;
+    margin: auto;
+}
+#Intermidiate{
+    text-align: center;
+    margin-top: 1cm;
+    font-size: 0.7cm;
+    margin: auto;
+}
+#Matriculation{
+    text-align: center;
+    margin-top: 1cm;
+    font-size: 0.7cm;
+    margin: auto;
+}
+.Skill img{
+    height: 2cm;
+    width: 2cm;
+    
+    display: inline;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 2cm;
+}
+.Skill{
+    text-align: center;}
+#skill{
+    font-size: 1.5cm;
+    color:#00ffad;
+}
+.Connect{
+    text-align: center;}
+#Connection{
+    font-size: 1.5cm;
+    color:#00ffad;
+}
+.Connect img{
+    height: 1.3cm;
+    width: 1.5cm;
+    display: inline;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 2cm;
+}
+.Email{
+    text-align: center;}
+#Email{
+    font-size: 1.5cm;
+    color:#00ffad;
+}
+#Email p{
+    font-size: 0.2px;
+    
+}
